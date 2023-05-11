@@ -1,0 +1,9 @@
+Python 3.6+
+
+API Key:
+- You can find your API key at https://platform.openai.com/account/api-keys.
+- open OPENAI_API_KEY in a text editor and replace the text with your API Key
+
+Python libraries used:
+- openai
+- tkinter
