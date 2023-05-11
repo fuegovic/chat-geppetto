@@ -7,7 +7,7 @@ Small Python Client for OpenAI API
 
 
 ## Features
- * The API is stored in plain text
+ * The API Key is stored in plain text
  * The project is not maintained
  * Supports gpt-3.5-turbo **and** text-davinci-003
  * Export the chat history in a text file
