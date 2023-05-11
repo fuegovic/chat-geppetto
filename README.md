@@ -5,6 +5,9 @@ Small Python Client for OpenAI API
 
 ![image](Screenshot.png)
 
+## Use
+ * put your api ke in the text file
+ * use the .bat file or call it from the command line
 
 ## Features
  * The API Key is stored in plain text
